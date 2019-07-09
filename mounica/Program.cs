@@ -9,5 +9,9 @@ namespace mounica
             Console.WriteLine("Hello World!");
             Console.WriteLine("this is code");
         }
+        public  void sum()
+        {
+            Console.WriteLine("sum of two numbers");
+        }
     }
 }
