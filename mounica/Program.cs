@@ -13,5 +13,9 @@ namespace mounica
         {
             Console.WriteLine("sum of two numbers");
         }
+        public void sumadd()
+        {
+            Console.WriteLine("hello this is sum add ");
+        }
     }
 }
